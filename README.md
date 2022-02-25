@@ -8,13 +8,13 @@
 
 ``````json
  {
-        px: "!",
-        playing: "F R A U D",
+        "px": "!",
+        "playing": "F R A U D",
 
-        red:"<a:ates:831631562235445278>",
-        onay:"<a:onay:831631087750348861>",
-        yklnyr:"<a:yklenyor:900010941800910889> ",
-        yldz:"<a:yildizz:900010941180174357>",
+        "red":"<a:ates:831631562235445278>",
+        "onay":"<a:onay:831631087750348861>",
+       "yklnyr":"<a:yklenyor:900010941800910889> ",
+        "yldz":"<a:yildizz:900010941180174357>",
 
     opt: {
         DJ: {
