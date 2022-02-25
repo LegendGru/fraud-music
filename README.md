@@ -6,7 +6,7 @@
 * Consolu açıp ```npm install``` yazarak tüm modülleri kur.
 * Kurulum bittikten sonra ```node main.js``` yaz ve botu başlat.
 
-``````json
+```json
  {
         "px": "!",
         "playing": "F R A U D",
@@ -27,7 +27,7 @@
         "discordPlayer": {
             "ytdlOptions": {
                 "quality": "highestaudio", //dokunma
-                "highWaterMark": 1 << 25 //dokunma
+                "highWaterMark": "1 << 25" //dokunma
             }
         }
 
