@@ -1,12 +1,4 @@
-# Discord.js v13 Müzik Botu 
-
-## Botun İntentlerini Açmayı Unutma!
-
-* Botu çalıştırmak için öncelikle `config.js` gerekli yerleri ve `main.js`'de token bölümünü doldurunuz
-* Consolu açıp ```npm install``` yazarak tüm modülleri kur.
-* Kurulum bittikten sonra ```node main.js``` yaz ve botu başlat.
-
-```json 
+module.exports = {
         px: '!',
         playing: 'F R A U D',
 
@@ -31,4 +23,3 @@
         }
     }
 };
-```
