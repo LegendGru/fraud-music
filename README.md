@@ -7,7 +7,7 @@
 * Kurulum bittikten sonra ```node main.js``` yaz ve botu başlat.
 
 ``````json
- 
+ {
         px: '!',
         playing: 'F R A U D',
 
@@ -32,4 +32,5 @@
         }
     }
 };
+}
 ```
