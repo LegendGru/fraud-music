@@ -8,8 +8,8 @@
 
 ``````json
  {
-        px: '!',
-        playing: 'F R A U D',
+        px: "!",
+        playing: "F R A U D",
 
         red:"<a:ates:831631562235445278>",
         onay:"<a:onay:831631087750348861>",
