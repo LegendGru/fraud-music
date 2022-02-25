@@ -16,18 +16,18 @@
        "yklnyr":"<a:yklenyor:900010941800910889> ",
         "yldz":"<a:yildizz:900010941180174357>",
 
-    opt: {
-        DJ: {
-            enabled: false, //EĞER SADECE DJLER KULLANA BİLSİN İSTİYOR İSENİZ false yazanı true yapın.
-            roleName: 'DJ', //DJ ROLÜNÜN İSMİ NE OLACAK İSE YAZIN SUNUCUNUZDA O ROLDEKİLER KULLANA BİLİR
-            commands: ['back', 'clear', 'filter', 'loop', 'pause', 'resume', 'skip', 'stop', 'volume'] //DOKUNMA
+    "opt": {
+        "DJ": {
+            "enabled": false, //EĞER SADECE DJLER KULLANA BİLSİN İSTİYOR İSENİZ false yazanı true yapın.
+            "roleName": 'DJ', //DJ ROLÜNÜN İSMİ NE OLACAK İSE YAZIN SUNUCUNUZDA O ROLDEKİLER KULLANA BİLİR
+            "commands": ['back', 'clear', 'filter', 'loop', 'pause', 'resume', 'skip', 'stop', 'volume'] //DOKUNMA
         },
-        maxVol: 250, //maximum ses seviyesi kaç olacak belirte bilirsiniz.
-        loopMessage: false, //dokunma
-        discordPlayer: {
-            ytdlOptions: {
-                quality: 'highestaudio', //dokunma
-                highWaterMark: 1 << 25 //dokunma
+        "maxVol": 250, //maximum ses seviyesi kaç olacak belirte bilirsiniz.
+        "loopMessage": false, //dokunma
+        "discordPlayer": {
+            "ytdlOptions": {
+                "quality": 'highestaudio', //dokunma
+                "highWaterMark": 1 << 25 //dokunma
             }
         }
     }
